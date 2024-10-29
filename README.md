@@ -3,7 +3,7 @@
 🌱 I’m currently deepening my knowledge in Data Science, focusing on Python, GitHub, and Machine Learning.
 💞️ I’m looking to collaborate on projects to build my portfolio in data science.
 📫 How to reach me?
-Check out my LinkedIn profile at linkedin.com/in/rafael-q-ferreira
+Check out my LinkedIn profile at linkedin.com/in/rafael-q-ferreira and my website at https://www.thedatasciencejourney.com/
 
 
 <!---
